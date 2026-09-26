@@ -1,0 +1,143 @@
+{
+  "project": "Photo360.ge",
+  "tagline": "Show Every Product From Every Angle",
+  "business": "Professional 360 product photography and interactive product viewers for e-commerce stores in Georgia",
+  "languages": [
+    "Georgian",
+    "English"
+  ],
+  "design": {
+    "style": [
+      "Premium",
+      "Apple-inspired",
+      "Shopify-inspired",
+      "Modern SaaS"
+    ],
+    "colors": {
+      "background": "white",
+      "text": "dark",
+      "cta": "orange"
+    },
+    "features": [
+      "Mobile-first",
+      "Fast loading",
+      "Smooth animations",
+      "SEO optimized"
+    ]
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "sections": [
+        "Hero",
+        "360 Viewer Demo",
+        "Client Logos",
+        "Benefits",
+        "Featured Industries",
+        "How It Works",
+        "Pricing Preview",
+        "Testimonials",
+        "CTA"
+      ]
+    },
+    {
+      "name": "About",
+      "sections": [
+        "Company Story",
+        "Mission",
+        "Vision",
+        "Why Choose Us",
+        "Studio Gallery",
+        "Equipment",
+        "Team"
+      ]
+    },
+    {
+      "name": "Services",
+      "services": [
+        "360 Product Photography",
+        "Product Photography",
+        "White Background Photography",
+        "Product Retouching",
+        "E-commerce Imaging",
+        "Interactive Viewers",
+        "Product Spin Creation",
+        "Website Integration",
+        "Marketplace Content Creation",
+        "Bulk Product Processing"
+      ]
+    },
+    {
+      "name": "360 Viewer",
+      "sections": [
+        "What is 360 Product Photography",
+        "Benefits",
+        "Interactive Demo",
+        "Examples Gallery",
+        "Comparison",
+        "Statistics",
+        "CTA"
+      ]
+    },
+    {
+      "name": "Pricing",
+      "plans": [
+        {
+          "name": "Starter",
+          "features": [
+            "36 Images",
+            "Standard Viewer",
+            "Web Ready Files"
+          ]
+        },
+        {
+          "name": "Professional",
+          "features": [
+            "72 Images",
+            "HD Viewer",
+            "Zoom Support",
+            "Website Integration"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "features": [
+            "Bulk Processing",
+            "Custom Workflow",
+            "Dedicated Support"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Portfolio",
+      "sections": [
+        "Portfolio Grid",
+        "Interactive Viewer Examples",
+        "Before After Comparison",
+        "Featured Projects"
+      ]
+    },
+    {
+      "name": "Contact",
+      "fields": [
+        "Name",
+        "Company",
+        "Email",
+        "Phone",
+        "Website",
+        "Number of Products",
+        "Message"
+      ]
+    }
+  ],
+  "advanced_features": [
+    "Interactive Viewer Mockups",
+    "Portfolio Filtering",
+    "Lightbox Gallery",
+    "Multilingual Support",
+    "WhatsApp Button",
+    "Back To Top",
+    "Fast Performance"
+  ]
+}

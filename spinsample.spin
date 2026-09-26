@@ -1,0 +1,43 @@
+{
+  "pattern": "^blue\\-trainers\\-(\\d+)\\.jpg$",
+  "layers": {
+    "1": {
+      "1": "blue-trainers-01.jpg",
+      "2": "blue-trainers-02.jpg",
+      "3": "blue-trainers-03.jpg",
+      "4": "blue-trainers-04.jpg",
+      "5": "blue-trainers-05.jpg",
+      "6": "blue-trainers-06.jpg",
+      "7": "blue-trainers-07.jpg",
+      "8": "blue-trainers-08.jpg",
+      "9": "blue-trainers-09.jpg",
+      "10": "blue-trainers-10.jpg",
+      "11": "blue-trainers-11.jpg",
+      "12": "blue-trainers-12.jpg",
+      "13": "blue-trainers-13.jpg",
+      "14": "blue-trainers-14.jpg",
+      "15": "blue-trainers-15.jpg",
+      "16": "blue-trainers-16.jpg",
+      "17": "blue-trainers-17.jpg",
+      "18": "blue-trainers-18.jpg",
+      "19": "blue-trainers-19.jpg",
+      "20": "blue-trainers-20.jpg",
+      "21": "blue-trainers-21.jpg",
+      "22": "blue-trainers-22.jpg",
+      "23": "blue-trainers-23.jpg",
+      "24": "blue-trainers-24.jpg",
+      "25": "blue-trainers-25.jpg",
+      "26": "blue-trainers-26.jpg",
+      "27": "blue-trainers-27.jpg",
+      "28": "blue-trainers-28.jpg",
+      "29": "blue-trainers-29.jpg",
+      "30": "blue-trainers-30.jpg",
+      "31": "blue-trainers-31.jpg",
+      "32": "blue-trainers-32.jpg",
+      "33": "blue-trainers-33.jpg",
+      "34": "blue-trainers-34.jpg",
+      "35": "blue-trainers-35.jpg",
+      "36": "blue-trainers-36.jpg"
+    }
+  }
+}

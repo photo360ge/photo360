@@ -1,0 +1,239 @@
+Create a premium, modern, conversion-focused website called Photo360.ge.
+
+Business:
+Photo360.ge provides professional 360° product photography, interactive product viewers, spin photography, e-commerce content creation and product presentation solutions for online stores and brands in Georgia.
+
+Target Customers:
+- E-commerce stores
+- Retailers
+- Electronics stores
+- Collectible stores
+- Fashion brands
+- Jewelry brands
+- Furniture stores
+- Manufacturers
+- Importers
+- Marketplace sellers
+
+Main Goal:
+Generate leads and convince businesses that 360° product photography increases customer trust, engagement, and conversions.
+
+Brand:
+Photo360.ge
+
+Tagline:
+"Show Every Product From Every Angle"
+
+Design Style:
+- Premium
+- Apple-inspired
+- Shopify-inspired
+- Clean white background
+- Elegant dark typography
+- Orange CTA buttons
+- Large imagery
+- Smooth micro-animations
+- Modern SaaS style design
+- Mobile-first
+- Fast loading
+- Trustworthy corporate appearance
+
+Language Support:
+- Georgian
+- English
+
+HOME PAGE
+
+Hero Section:
+Headline:
+"360° Product Photography for Modern E-commerce"
+
+Subheadline:
+"Give customers the ability to rotate, inspect and explore products from every angle."
+
+Buttons:
+- Request a Quote
+- View Portfolio
+
+Interactive 360 Product Viewer Placeholder
+
+Client Logos Section
+
+Benefits Section:
+- Increase Customer Trust
+- Reduce Product Returns
+- Improve Conversion Rate
+- Better Product Understanding
+- Premium Brand Experience
+
+Featured Industries:
+- Electronics
+- Collectibles
+- Fashion
+- Furniture
+- Jewelry
+- Industrial Products
+
+How It Works:
+1. Send your products
+2. Professional photo capture
+3. 360 degree processing
+4. Viewer creation
+5. Website integration
+
+Pricing Preview
+
+Testimonials
+
+Call To Action
+
+ABOUT US PAGE
+
+Company Story
+
+Mission:
+Help Georgian online stores create world-class product experiences.
+
+Vision:
+Become Georgia's leading 360° product content provider.
+
+Why Choose Us:
+- Specialized in e-commerce
+- Fast turnaround
+- High quality output
+- Website integration support
+- Scalable production
+
+Studio Gallery
+
+Equipment Section
+
+Team Section
+
+SERVICES PAGE
+
+Service Categories:
+
+1. 360 Product Photography
+2. Product Photography
+3. White Background Photography
+4. Product Retouching
+5. E-commerce Imaging
+6. Interactive Viewers
+7. Product Spin Creation
+8. Website Integration
+9. Marketplace Content Creation
+10. Bulk Product Processing
+
+360 VIEWER PAGE
+
+What is 360 Product Photography?
+
+Benefits:
+- Higher Customer Confidence
+- Better Product Presentation
+- Increased User Engagement
+- Improved Purchase Decisions
+
+Interactive Demo Area
+
+Examples Gallery
+
+Comparison Section:
+Regular Product Photos vs 360° Product View
+
+Statistics Banner
+
+Final CTA
+
+PRICING PAGE
+
+Starter
+- 36 Images
+- Standard Viewer
+- Web Ready Files
+
+Professional
+- 72 Images
+- HD Viewer
+- Zoom Support
+- Website Integration
+
+Enterprise
+- Bulk Processing
+- Custom Production Workflow
+- Dedicated Support
+
+Custom Quote Section
+
+ROI Calculator
+
+PORTFOLIO PAGE
+
+Filter Categories:
+- Electronics
+- Toys
+- Collectibles
+- Fashion
+- Accessories
+- Furniture
+
+Portfolio Grid
+
+Interactive Viewer Examples
+
+Before / After Comparison
+
+Featured Projects
+
+CONTACT PAGE
+
+Professional Contact Form
+
+Fields:
+- Name
+- Company
+- Email
+- Phone
+- Website
+- Number of Products
+- Message
+
+Contact Information:
+- Email
+- Phone
+- WhatsApp
+- Facebook
+- Instagram
+- LinkedIn
+
+Google Maps Section
+
+Business Hours
+
+FOOTER
+
+Menu:
+- Home
+- About
+- Services
+- 360 Viewer
+- Portfolio
+- Pricing
+- Contact
+
+ADVANCED FEATURES
+
+- Interactive 360 Viewer Mockups
+- Smooth Scroll Animations
+- Animated Statistics
+- Portfolio Filtering
+- Image Gallery Lightbox
+- SEO Optimized
+- Multilingual Support
+- Sticky Contact Button
+- WhatsApp Floating Button
+- Back To Top Button
+- Fast Page Performance
+- Modern SaaS User Interface
+- Premium Visual Design

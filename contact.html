@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ka">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact — Photo360.ge</title>
+    <meta
+      name="description"
+      content="Contact Photo360.ge for 360° product photography, viewer creation, and e-commerce imaging solutions in Georgia."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a href="index.html" class="brand">Photo360.ge</a>
+        <button class="mobile-nav-toggle" aria-label="Toggle navigation">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <nav class="site-nav">
+          <a href="index.html" data-en="Home">მთავარი</a>
+          <a href="about.html" data-en="About Us">ჩვენს შესახებ</a>
+
+          <a href="pricing.html" data-en="Pricing">ფასები</a>
+          <a href="portfolio.html" data-en="Portfolio">პორტფოლიო</a>
+          <a href="contact.html" data-en="Contact">კონტაქტი</a>
+        </nav>
+        <div class="header-actions">
+          <a href="?lang=ka" class="button button-secondary language-toggle">GE</a>
+          <a href="?lang=en" class="button button-secondary language-toggle">EN</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" id="contact-hero">
+        <div class="container hero-grid">
+          <div class="hero-copy">
+            <span class="eyebrow" data-en="Contact">კონტაქტი</span>
+            <h1 data-en="Start your 360° photo project with Photo360.ge.">დაიწყეთ თქვენი 360° ფოტოპროექტი Photo360.ge-თან.</h1>
+          </div>
+          <div class="hero-visual">
+            <div class="viewer-card">
+              <div class="viewer-placeholder">
+                <iframe src="https://spinzam.com/shot/embed/?idx=553513" width="640" height="640" scrolling="no" style="max-width:100%; max-height:100vw;"></iframe>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section contact">
+        <div class="container contact-grid">
+          <div class="contact-copy">
+            <span class="eyebrow" data-en="Reach us">დაგვიკავშირდით</span>
+            <h2 data-en="Would you like your customers to view your product from every angle?">გსურთ, თქვენმა მომხმარებელმა პროდუქტი ყველა მხრიდან დაათვალიეროს?</h2>
+            <p data-en="Share your project details, and we will provide a tailored proposal for 360° photography and viewer integration.">
+              გაგვიზიარეთ თქვენი პროექტის დეტალები და ჩვენ <strong>მოგაწვდით</strong> ინდივიდუალურ ფასწინადადებას 360° ფოტოგრაფიისა და ვიუერის ინტეგრაციაზე.
+            </p>
+            <div class="contact-details">
+              <div><strong data-en="Phone">ტელეფონი</strong><span>+995 599 744774</span></div>
+            </div>
+          </div>
+
+          <form class="contact-form" id="contactForm">
+            <div class="form-grid">
+              <label><span data-en="Name">სახელი</span><input type="text" name="from_name" placeholder="სახელი" data-en="Name" required /></label>
+              <label><span data-en="Company">კომპანია</span><input type="text" name="company" placeholder="კომპანია" data-en="Company" /></label>
+              <label><span data-en="Email">ელ.ფოსტა</span><input type="email" name="email" placeholder="ელ.ფოსტა" data-en="Email" required /></label>
+              <label><span data-en="Phone">ტელეფონი</span><input type="tel" name="phone" placeholder="ტელეფონი" data-en="Phone" /></label>
+              <label><span data-en="Website">ვებგვერდი</span><input type="text" name="website" inputmode="url" autocomplete="url" placeholder="თქვენი ვებგვერდი" data-en="Website" /></label>
+              <label><span data-en="Number of Products">პროდუქტების რაოდენობა</span><input type="text" name="product_count" placeholder="რაოდენობა" data-en="Quantity" /></label>
+            </div>
+            <label class="full-width"><span data-en="Message">შეტყობინება</span><textarea name="message" rows="5" placeholder="დაგვიტოვეთ შეტყობინება პროექტის შესახებ" data-en="Tell us about your project" required></textarea></label>
+            <button type="submit" class="button button-primary" data-en="Send Message">შეტყობინების გაგზავნა</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>© 2026 Photo360.ge. პრემიუმ 360° პროდუქტის ფოტოგრაფია ქართული ელექტრონული კომერციისთვის.</p>
+      </div>
+    </footer>
+
+    <script src="lang.js"></script>
+    <script>
+      const toggle = document.querySelector('.mobile-nav-toggle');
+      const nav = document.querySelector('.site-nav');
+      if (toggle && nav) {
+        toggle.addEventListener('click', () => {
+          nav.classList.toggle('nav-open');
+          toggle.classList.toggle('open');
+        });
+      }
+
+    </script>
+    <script src="whatsapp-form.js"></script>
+  </body>
+</html>

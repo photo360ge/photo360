@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ka">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About Us — Photo360.ge</title>
+    <meta
+      name="description"
+      content="გაიგეთ მეტი Photo360.ge‑ზე — ჩვენი მისია, სტუდია და გუნდი, რომლებიც უზრუნველყოფენ 360° პროდუქტის ფოტოგრაფიას ქართული ელექტრონული კომერციისათვის."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a href="index.html" class="brand">Photo360.ge</a>
+        <button class="mobile-nav-toggle" aria-label="Toggle navigation">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <nav class="site-nav">
+          <a href="index.html" data-en="Home">მთავარი</a>
+          <a href="about.html" data-en="About Us">ჩვენს შესახებ</a>
+
+          <a href="pricing.html" data-en="Pricing">ფასები</a>
+          <a href="portfolio.html" data-en="Portfolio">პორტფოლიო</a>
+          <a href="contact.html" data-en="Contact">კონტაქტი</a>
+        </nav>
+        <div class="header-actions">
+          <a href="?lang=ka" class="button button-secondary language-toggle">GE</a>
+          <a href="?lang=en" class="button button-secondary language-toggle">EN</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" id="about-hero">
+        <div class="container hero-grid">
+          <div class="hero-copy">
+            <span class="eyebrow" data-en="About Us">ჩვენს შესახებ</span>
+            <h1 data-en="We create premium 360° experiences for Georgian e-commerce.">ჩვენ ვქმნით პრემიუმ 360° გამოცდილებას ქართული ელექტრონული კომერციისთვის.</h1>
+            <p data-en="Photo360.ge helps retail stores, brands, and online marketplaces with modern product presentation and interactive viewers.">
+              Photo360.ge ეხმარება საცალო მაღაზიებს, ბრენდებსა და ონლაინ ბაზრებს — თანამედროვე პროდუქტის პრეზენტაციით, ინტერაქტიული ვიუერებით.
+            </p>
+            <div class="hero-actions">
+              <a href="contact.html" class="button button-primary" data-en="Contact">დაგვიკავშირდით</a>
+              <a href="portfolio.html" class="button button-primary" data-en="View Portfolio">პორტფოლიოს ნახვა</a>
+            </div>
+          </div>
+          <div class="hero-visual">
+            <div class="viewer-card">
+                <div class="viewer-placeholder">
+                  <iframe src="https://spinzam.com/shot/embed/?idx=553510" width="640" height="640" scrolling="no" style="max-width:100%; max-height:100vw;"></iframe>
+                </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <div class="benefit-grid">
+            <article>
+              <h3 data-en="Mission">მისია</h3>
+              <p data-en="Help Georgian online stores create world-class product presentations.">დავეხმაროთ ქართულ ონლაინ მაღაზიებს მსოფლიო კლასის პროდუქტის ჩვენების შექმნაში.</p>
+            </article>
+            <article>
+              <h3 data-en="Vision">ხედვა</h3>
+              <p data-en="Let's set standards and become Georgia's leading 360° content provider.">შევქმნათ სტანდარტები და გავხდეთ საქართველოს წამყვანი 360° კონტენტის მიმწოდებელი.</p>
+            </article>
+            <article>
+              <h3 data-en="Why Us">რატომ ჩვენ</h3>
+              <p data-en="Specialization in e-commerce, fast turnaround, high quality, and easy website integration.">სპეციალიზაცია ელ.კომერციაში, სწრაფი ვადები, მაღალი ხარისხი და საიტის მარტივი ინტეგრაცია.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p data-en="© 2026 Photo360.ge. Premium 360° product photography for Georgian e-commerce.">© 2026 Photo360.ge. პრემიუმ 360° პროდუქტის ფოტოგრაფია ქართული ელექტრონული კომერციისთვის.</p>
+      </div>
+    </footer>
+
+    <script src="lang.js"></script>
+    <script>
+      const toggle = document.querySelector('.mobile-nav-toggle');
+      const nav = document.querySelector('.site-nav');
+      toggle.addEventListener('click', () => {
+        nav.classList.toggle('nav-open');
+        toggle.classList.toggle('open');
+      });
+    </script>
+    <script src="spin-viewer.js"></script>
+  </body>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ka">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pricing — Photo360.ge</title>
+    <meta
+      name="description"
+      content="Explore Photo360.ge pricing plans for 360° photography, interactive viewers, and enterprise content workflows."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a href="index.html" class="brand">Photo360.ge</a>
+        <button class="mobile-nav-toggle" aria-label="Toggle navigation">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <nav class="site-nav">
+          <a href="index.html" data-en="Home">მთავარი</a>
+          <a href="about.html" data-en="About Us">ჩვენს შესახებ</a>
+
+          <a href="pricing.html" data-en="Pricing">ფასები</a>
+          <a href="portfolio.html" data-en="Portfolio">პორტფოლიო</a>
+          <a href="contact.html" data-en="Contact">კონტაქტი</a>
+        </nav>
+        <div class="header-actions">
+          <a href="?lang=ka" class="button button-secondary language-toggle">GE</a>
+          <a href="?lang=en" class="button button-secondary language-toggle">EN</a>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" id="pricing-hero">
+        <div class="container hero-grid">
+            <div class="hero-copy">
+            <span class="eyebrow" data-en="Pricing">ფასები</span>
+            <h1 data-en="Choose the plan that suits you: Starter, Professional, or Corporate.">შეარჩიეთ თქვენთვის მორგებული გეგმა: სტარტერი, პროფესიონალური ან კორპორატიული.</h1>
+            <p data-en="Choose a plan that matches the size of your catalog, functionality, and integration requirements.">
+             აირჩიეთ გეგმა, რომელიც შეესაბამება თქვენი კატალოგის ზომას, ფუნქციონალსა და ინტეგრაციის მოთხოვნებს.
+            </p>
+            <div class="hero-actions">
+              <a href="contact.html" class="button button-primary" data-en="Contact">დაგვიკავშირდით</a>
+              <a href="portfolio.html" class="button button-primary" data-en="View Portfolio">პორტფოლიოს ნახვა</a>
+            </div>
+          </div>
+          <div class="hero-visual">
+            <div class="viewer-card">
+              <div class="viewer-placeholder">
+                <iframe src="https://spinzam.com/shot/embed/?idx=553514" width="640" height="640" scrolling="no" style="max-width:100%; max-height:100vw;"></iframe>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section pricing">
+        <div class="container">
+          <div class="section-intro">
+            <span class="eyebrow" data-en="Pricing Preview">ფასების მიმოხილვა</span>
+            <h2 data-en="Choose the plan that works for you">შეარჩიეთ თქვენზე მორგებული გეგმა</h2>
+          </div>
+          <div class="pricing-grid">
+            <article class="pricing-card featured">
+              <h3 data-en="Starter">სტარტერი</h3>
+              <ul>
+                <li data-en="36 Images">36 სურათი</li>
+                <li data-en="Standard Viewer">სტანდარტული ვიუერი</li>
+                <li data-en="Web Ready Files">ვებისთვის მზად ფაილები</li>
+              </ul>
+              <a href="contact.html" class="button button-primary" data-en="Contact">დაგვიკავშირდით</a>
+            </article>
+            <article class="pricing-card">
+              <h3 data-en="Professional">პროფესიონალური</h3>
+              <ul>
+                <li data-en="72 Images">72 სურათი</li>
+                <li data-en="HD Viewer">HD ვიუერი</li>
+                <li data-en="Zoom Support">ზუმის მხარდაჭერა</li>
+                <li data-en="Website Integration">ვებგვერდის ინტეგრაცია</li>
+              </ul>
+              <a href="contact.html" class="button button-primary" data-en="Contact">დაგვიკავშირდით</a>
+            </article>
+            <article class="pricing-card">
+              <h3 data-en="Corporate">კორპორატიული გეგმა</h3>
+              <ul>
+                <li data-en="Unlimited Images">ულიმიტო სურათები</li>
+                <li data-en="Custom Workflow">კონფიგურებადი სამუშაო პროცესი</li>
+                <li data-en="Personalized Support">პერსონალური მხარდაჭერა</li>
+              </ul>
+              <a href="contact.html" class="button button-primary" data-en="Contact">დაგვიკავშირდით</a>
+            </article>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p data-en="© 2026 Photo360.ge. Premium 360° product photography for Georgian e-commerce.">© 2026 Photo360.ge. პრემიუმ 360° პროდუქტის ფოტოგრაფია ქართული ელექტრონული კომერციისთვის.</p>
+      </div>
+    </footer>
+
+    <script src="lang.js"></script>
+    <script>
+      const toggle = document.querySelector('.mobile-nav-toggle');
+      const nav = document.querySelector('.site-nav');
+      toggle.addEventListener('click', () => {
+        nav.classList.toggle('nav-open');
+        toggle.classList.toggle('open');
+      });
+    </script>
+  </body>
+</html>
